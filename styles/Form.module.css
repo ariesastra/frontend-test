@@ -1,0 +1,82 @@
+@media screen and (max-width: 992px){
+    .nameInput{
+        width: 100%;
+    }
+}
+@media screen and (min-width: 993px){
+    .nameInput{
+        width: 300px;
+    }
+}
+.nameInput{
+    border: 1px solid #738290;
+    box-sizing: border-box;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+@media screen and (max-width: 992px){
+    .numbInput{
+        width: 100%;
+    }
+}
+@media screen and (min-width: 993px){
+    .numbInput{
+        width: 300px;
+    }
+}
+.numbInput{
+    position: relative;
+    border: 1px solid #738290;
+    box-sizing: border-box;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 0;
+}
+.numbForm{
+    border: none;
+    border-radius: 4px;
+    width: 100%;
+    padding: 5px 10px;
+}
+
+@media screen and (max-width: 992px){
+    .expireInput{
+        width: 100%;
+    }
+}
+@media screen and (min-width: 993px){
+    .expireInput{
+        width: 160px;
+    }
+}
+.expireInput{
+    border: 1px solid #738290;
+    box-sizing: border-box;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+@media screen and (max-width: 992px){
+    .codeInput{
+        width: 100%;
+    }
+}
+@media screen and (min-width: 993px){
+    .codeInput{
+        width: 160px;
+    }
+}
+.codeInput{
+    border: 1px solid #738290;
+    box-sizing: border-box;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+.button {
+    margin: 15px 15px 0 0;
+}
