@@ -71,7 +71,7 @@ function PaymentMethod() {
         <Row>
             <Description>
                 <h2>
-                    This is Custom Interactive Credit Card Form
+                    This is Interactive Credit Card Form
                 </h2>
             </Description>
             <CheatSheet>
