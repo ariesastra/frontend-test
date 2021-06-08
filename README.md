@@ -14,6 +14,6 @@ and after that, using this command to run the project
 npm run dev
 ```
 
-and open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+and open [http://localhost:3000](http://localhost:3000) from your browser to see the result.
 
-to open hosted project, please open this link : []()
+to open hosted project, please open this link : [Deployed Project](https://frontendtest-kohl.vercel.app/)
